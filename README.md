@@ -1,5 +1,4 @@
 ### Hi there 👋, My name is Mahir Mashfiq
-#### I am a CSE student
 Aspiring web developer ardent about building efficient and friendly applications. I am eager to apply my knowledge into practice.. I am always committed to learning and staying up-to-date with the latest technologies in the industry. I seek to contribute my skills to a dynamic and forward-thinking team. 
 
 Skills: C, HTML, Java, Microsoft office
